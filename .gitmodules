@@ -1,0 +1,9 @@
+[submodule "plugins/tasteful-design"]
+	path = plugins/tasteful-design
+	url = https://github.com/spsk-dev/tasteful-design.git
+[submodule "plugins/code-review"]
+	path = plugins/code-review
+	url = https://github.com/spsk-dev/code-review.git
+[submodule "plugins/consensus"]
+	path = plugins/consensus
+	url = https://github.com/spsk-dev/consensus.git
